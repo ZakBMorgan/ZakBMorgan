@@ -10,11 +10,11 @@ CS student at Northeastern University (BS, AI concentration, Class of 2029) — 
 
 ### 🚀 Featured Projects
 
-**[GymCast](https://github.com/your-username/gymcast)** — Gym occupancy prediction system
+**[GymCast](https://github.com/ZakBMorgan/gym_predictor)** — Gym occupancy prediction system
 Live scraper (DigitalOcean droplet, systemd-managed) pulling Northeastern's Marino Rec Center occupancy every 5 minutes, feeding a LightGBM model with walk-forward validation. Includes health monitoring via ntfy.sh and a full serving pipeline.
 `Python` `LightGBM` `DigitalOcean` `systemd`
 
-**[Findly](https://github.com/your-username/findly)** — RAG-powered search tool (HackBeanpot)
+**[Findly](https://github.com/qutch/findly)** — RAG-powered search tool (HackBeanpot)
 Retrieval-augmented generation app built with Electron, Gemini, and Pinecone.
 `Electron` `Gemini` `Pinecone` `RAG`
 
@@ -26,9 +26,9 @@ JavaFX/MVVM desktop app built with a team. Owned the Search & Filter feature —
 
 ### 🛠️ Tech Stack
 
-`Python` · `Java` · `JavaScript` · `Electron` · `LightGBM` · `Wireshark` · `Git`
+`Python` · `Java` · `JavaScript` · `Electron` · `LightGBM` · `Git`
 
 ---
 
 ### 📫 Reach me
-[LinkedIn](#) · [Email](#)
+[LinkedIn](linkedin.com/in/zakbmorgan) · [Email](morgan.za@northeastern.edu)
